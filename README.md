@@ -1,2 +1,2 @@
 # Exercicios-Java-IFPB
-Exercicios Java IFPB PO
+Exercicios python IFPB PO
